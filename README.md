@@ -1,4 +1,5 @@
 ## City Council Office of Financial Analysis (COFA)
+Welcome to the GitHub page for COFA!
 
 ![](cofa_long.jpeg)
 
@@ -8,6 +9,9 @@
 |----|-----|
 | dashboard-etl | contains files for extraction, transformation, and loading of data to be integrated to COFA dashboards |
 | data-analysis | contains files related to ad-hoc requests, formal analyses, and data exploration |
+
+#### Owner
+Adrian Reuschel, Legislative Budget Analyst COFA
 
 
 

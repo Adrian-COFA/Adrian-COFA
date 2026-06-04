@@ -1,6 +1,6 @@
 ## City Council Office of Financial Analysis (COFA)
 
-![](cofa.png)
+![](cofa_long.jpeg)
 
 ### Repositories
 

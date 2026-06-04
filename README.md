@@ -1,4 +1,15 @@
-## Hi there 👋
+## City Council Office of Financial Analysis (COFA)
+
+![](cofa.png)
+
+### Repositories
+
+| Repo Name | Description |
+|----|-----|
+| dashboard-etl | contains files for extraction, transformation, and loading of data to be integrated to COFA dashboards |
+| data-analysis | contains files related to ad-hoc requests, formal analyses, and data exploration |
+
+
 
 <!--
 **Adrian-COFA/Adrian-COFA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,9 +7,9 @@ Welcome to the GitHub page for COFA!
 
 | Repo Name | Description |
 |---------|--------------|
-| [dashboard-etl](https://github.com/Adrian-COFA/dashboard-etl) | contains files for extraction, transformation, and loading of data to be integrated to COFA dashboards |
-| [data-analysis](https://github.com/Adrian-COFA/data-analysis) | contains files related to ad-hoc requests, formal analyses, and data exploration |
-| [DevOps-Start](https://github.com/Adrian-COFA/DevOps-Start) | contains training files related to GitHub project management |
+| [dashboard-etl](https://github.com/Adrian-COFA/dashboard-etl) | ETL Workflows for COFA dashboards |
+| [data-analysis](https://github.com/Adrian-COFA/data-analysis) | R/Python/Html files for any COFA-related data analysis tasks |
+| [DevOps-Start](https://github.com/Adrian-COFA/DevOps-Start) | Intro to GitHub project management |
 
 #### Owner
 Adrian Reuschel, Legislative Budget Analyst COFA

@@ -6,7 +6,7 @@ Welcome to the GitHub page for COFA!
 ### Repositories
 
 | Repo Name | Description |
-|----|-----|
+|---------|--------------|
 | dashboard-etl | contains files for extraction, transformation, and loading of data to be integrated to COFA dashboards |
 | data-analysis | contains files related to ad-hoc requests, formal analyses, and data exploration |
 

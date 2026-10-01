@@ -9,7 +9,7 @@ Welcome to the GitHub page for COFA!
 |---------|--------------|
 | [dashboard-etl](https://github.com/Adrian-COFA/dashboard-etl) | ETL Workflows for COFA dashboards |
 | [data-analysis](https://github.com/Adrian-COFA/data-analysis) | Documentation and code files for data analysis |
-| [forecast-methods](https://github.com/Adrian-COFA/forecast-methods) | Research Methods for 2026 Budget Forecasting |
+| [forecast-methods](https://github.com/Adrian-COFA/forecast-methods) | Forecasting Projects - Code and Documentation |
 | [DevOps-Start](https://github.com/Adrian-COFA/DevOps-Start) | Intro to GitHub project management |
 
 #### Owner
